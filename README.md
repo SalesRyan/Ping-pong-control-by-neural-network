@@ -42,7 +42,7 @@ for this reason, study the perfect universe of neural networks, but don't forget
 ```bash
 pip install numpy
 ```
-- *Pygame
+- *Pygame*
 ```bash
 pip install pygame
 ```
